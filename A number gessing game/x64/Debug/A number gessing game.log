@@ -1,0 +1,3 @@
+﻿  A number gessing game.cpp
+C:\Users\s218005\Documents\GitHub\A-Number-gessing-game\A number gessing game\A number gessing game.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  A number gessing game.vcxproj -> C:\Users\s218005\Documents\GitHub\A-Number-gessing-game\x64\Debug\A number gessing game.exe
